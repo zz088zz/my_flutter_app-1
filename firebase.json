@@ -1,0 +1,28 @@
+{
+  "firestore": {
+    "rules": "firestore.rules"
+  },
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "evcharging-aef0c",
+          "appId": "1:20639293037:android:08c72f1aa07433ce7f2964",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "evcharging-aef0c",
+          "configurations": {
+            "android": "1:20639293037:android:08c72f1aa07433ce7f2964",
+            "ios": "1:20639293037:ios:c5a3c37f0d11e4767f2964",
+            "macos": "1:20639293037:ios:c5a3c37f0d11e4767f2964",
+            "web": "1:20639293037:web:59c0f8c8932ccdf87f2964",
+            "windows": "1:20639293037:web:59c0f8c8932ccdf87f2964"
+          }
+        }
+      }
+    }
+  }
+}

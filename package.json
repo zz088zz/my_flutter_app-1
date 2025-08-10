@@ -1,0 +1,19 @@
+{
+  "name": "ev-charging-firebase-setup",
+  "version": "1.0.0",
+  "description": "Firebase setup script for EV Charging App",
+  "main": "firebase_setup.js",
+  "scripts": {
+    "setup": "node firebase_setup.js",
+    "deploy-rules": "firebase deploy --only firestore:rules"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  },
+  "keywords": ["firebase", "flutter", "ev-charging"],
+  "author": "Your Name",
+  "license": "MIT"
+} 

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20639293037",
+    "project_id": "evcharging-aef0c",
+    "storage_bucket": "evcharging-aef0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20639293037:android:08c72f1aa07433ce7f2964",
+        "android_client_info": {
+          "package_name": "com.example.my_flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSaqGIrGv7eISdNxR10S6m1kGd4Bco0C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
